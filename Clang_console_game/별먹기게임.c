@@ -1,4 +1,5 @@
 #include <stdlib.h> // 난수생성
+#include <unistd.h> // 리눅스 gui용 헤더파일
 #include <termios.h> // gcc용 키보드 이벤트
 #include <stdio.h> // printf
 #include <time.h> // 난수를 랜덤하게
