@@ -77,7 +77,7 @@ def forgeDownload() :
 
 if __name__ == "__main__" :
     os.chdir(path)
-    menu = input("마인크래프트 모드 반자동 적용기 1.2v\n메뉴 :\n1. mods파일 열기\n2. 모드 자동패치\n3. Forge 설치\n4. 프로그램 종료 : ")
+    menu = input("마인크래프트 모드 반자동 적용기 1.3v\n메뉴 :\n1. mods파일 열기\n2. 모드 자동패치\n3. Forge 설치\n4. 프로그램 종료 : ")
     if menu == "1" :
         openModsFolder()
     elif menu == "2" :
