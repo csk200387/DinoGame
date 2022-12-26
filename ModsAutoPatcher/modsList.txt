@@ -29,3 +29,7 @@ https://res.cloudinary.com/db6ryl5bl/raw/upload/v1672047101/Mods/Mantle-1.16.5-1
 https://res.cloudinary.com/db6ryl5bl/raw/upload/v1672047101/Mods/bettervillage-forge-1.16.5-2.0.0_ye5dag.jar
 https://res.cloudinary.com/db6ryl5bl/raw/upload/v1672047101/Mods/CreativeCore_v2.2.1_mc1.16.5_rgcono.jar
 https://res.cloudinary.com/db6ryl5bl/raw/upload/v1672047101/Mods/jei-1.16.5-7.7.1.153_o4vikr.jar
+https://github.com/csk200387/Toy/raw/main/ModsAutoPatcher/DynamicSurroundings-1.16.5-4.0.5.0.jar
+https://github.com/csk200387/Toy/raw/main/ModsAutoPatcher/TConstruct-1.16.5-3.3.4.335.jar
+https://github.com/csk200387/Toy/raw/main/ModsAutoPatcher/alexsmobs-1.12.1.jar
+https://github.com/csk200387/Toy/raw/main/ModsAutoPatcher/betternether_reforged-1.2.jar
