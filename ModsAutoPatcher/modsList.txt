@@ -33,3 +33,10 @@ https://github.com/csk200387/Toy/raw/main/ModsAutoPatcher/DynamicSurroundings-1.
 https://github.com/csk200387/Toy/raw/main/ModsAutoPatcher/TConstruct-1.16.5-3.3.4.335.jar
 https://github.com/csk200387/Toy/raw/main/ModsAutoPatcher/alexsmobs-1.12.1.jar
 https://github.com/csk200387/Toy/raw/main/ModsAutoPatcher/betternether_reforged-1.2.jar
+https://res.cloudinary.com/db6ryl5bl/raw/upload/v1672128295/Mods/pamhc2foodextended-1.16.3-1.0.4_ucpjfi.jar
+https://res.cloudinary.com/db6ryl5bl/raw/upload/v1672128293/Mods/pamhc2crops-1.16.3-1.0.2_pdja22.jar
+https://res.cloudinary.com/db6ryl5bl/raw/upload/v1672128293/Mods/pamhc2trees-1.16.3-1.0.1_hkm7ay.jar
+https://res.cloudinary.com/db6ryl5bl/raw/upload/v1672128292/Mods/pamhc2foodcore-1.16.3-1.0.2_vqwqzg.jar
+https://res.cloudinary.com/db6ryl5bl/raw/upload/v1672128522/Mods/appleskin-forge-mc1.16.x-2.4.0_sybxoi.jar
+https://res.cloudinary.com/db6ryl5bl/raw/upload/v1672128550/Mods/Atum-1.16.5-2.2.12_x3arn4.jar
+https://res.cloudinary.com/db6ryl5bl/raw/upload/v1672128546/Mods/curios-forge-1.16.5-4.0.8.2_dmmlts.jar
