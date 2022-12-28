@@ -40,3 +40,4 @@ https://res.cloudinary.com/db6ryl5bl/raw/upload/v1672128292/Mods/pamhc2foodcore-
 https://res.cloudinary.com/db6ryl5bl/raw/upload/v1672128522/Mods/appleskin-forge-mc1.16.x-2.4.0_sybxoi.jar
 https://res.cloudinary.com/db6ryl5bl/raw/upload/v1672128550/Mods/Atum-1.16.5-2.2.12_x3arn4.jar
 https://res.cloudinary.com/db6ryl5bl/raw/upload/v1672128546/Mods/curios-forge-1.16.5-4.0.8.2_dmmlts.jar
+https://res.cloudinary.com/db6ryl5bl/raw/upload/v1672248266/Mods/invtweaks-1.16.4-1.0.1_xu52u5.jar
