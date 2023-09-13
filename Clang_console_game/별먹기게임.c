@@ -73,6 +73,7 @@ int print_matrix(int x, int y) {
 }
 
 int main() {
+    printf("\e[?25l"); // 커서 숨김
 	feedPosi();
 	char c;
 	int x = 40;
@@ -90,4 +91,5 @@ int main() {
 		if (score == 100) break;
 	}
 	printf("congratulation\n");
+    printf("\e[?25h"); // 커서 다시 생성
 }
